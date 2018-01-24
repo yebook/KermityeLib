@@ -1,4 +1,4 @@
-package com.reemanye.yelibs;
+package com.kermitye.yelibs;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

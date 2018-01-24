@@ -1,18 +1,18 @@
-package com.reemanye.yelibs.myokhttp;
+package com.kermitye.yelibs.myokhttp;
 
 import android.content.Context;
 import android.os.Handler;
 import android.util.Log;
 
 import com.google.gson.Gson;
-import com.reemanye.yelibs.myokhttp.body.ProgressRequestBody;
-import com.reemanye.yelibs.myokhttp.body.ResponseProgressBody;
-import com.reemanye.yelibs.myokhttp.response.DownloadResponseHandler;
-import com.reemanye.yelibs.myokhttp.response.GsonResponseHandler;
-import com.reemanye.yelibs.myokhttp.response.IResponseHandler;
-import com.reemanye.yelibs.myokhttp.response.JsonResponseHandler;
-import com.reemanye.yelibs.myokhttp.response.RawResponseHandler;
-import com.reemanye.yelibs.myokhttp.utils.LogUtils;
+import com.kermitye.yelibs.myokhttp.body.ProgressRequestBody;
+import com.kermitye.yelibs.myokhttp.body.ResponseProgressBody;
+import com.kermitye.yelibs.myokhttp.response.DownloadResponseHandler;
+import com.kermitye.yelibs.myokhttp.response.GsonResponseHandler;
+import com.kermitye.yelibs.myokhttp.response.IResponseHandler;
+import com.kermitye.yelibs.myokhttp.response.JsonResponseHandler;
+import com.kermitye.yelibs.myokhttp.response.RawResponseHandler;
+import com.kermitye.yelibs.myokhttp.utils.LogUtils;
 
 import org.json.JSONException;
 import org.json.JSONObject;

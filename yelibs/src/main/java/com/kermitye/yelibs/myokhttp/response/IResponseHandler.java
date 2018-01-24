@@ -1,4 +1,4 @@
-package com.reemanye.yelibs.myokhttp.response;
+package com.kermitye.yelibs.myokhttp.response;
 
 /**
  * Created by ye on 2017/10/16.

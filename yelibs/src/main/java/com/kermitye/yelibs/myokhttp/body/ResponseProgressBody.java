@@ -1,7 +1,7 @@
-package com.reemanye.yelibs.myokhttp.body;
+package com.kermitye.yelibs.myokhttp.body;
 
 
-import com.reemanye.yelibs.myokhttp.response.DownloadResponseHandler;
+import com.kermitye.yelibs.myokhttp.response.DownloadResponseHandler;
 
 import java.io.IOException;
 
